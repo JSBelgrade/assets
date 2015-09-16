@@ -6,7 +6,8 @@
 
 
 # JS Belgrade assets
-This is a repository for JS Belgrade assets such as logos, descriptions & other memorabilia (stickers & t-shirt design hopefully soon!)
+This is a repository for JS Belgrade assets such as logos, descriptions & other memorabilia
+*(stickers & t-shirt design hopefully soon!)*
 
 ### Short description
 JS Belgrade is a local JavaScript community in Belgrade, Serbia. Monthly meetups, workshops, lectures & JavaScript hacker groups.
