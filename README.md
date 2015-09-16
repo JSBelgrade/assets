@@ -6,3 +6,6 @@
 
 
 # JS Belgrade assets
+
+### Short description
+JS Belgrade is a local JavaScript community in Belgrade, Serbia. Monthly meetups, workshops, lectures & JavaScript hacker groups.
