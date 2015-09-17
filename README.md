@@ -7,6 +7,7 @@
 
 # JS Belgrade assets
 This is a repository for JS Belgrade assets such as logos, descriptions & other memorabilia
+
 *(stickers & t-shirt design hopefully soon!)*
 
 ### Short description
